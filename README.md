@@ -29,6 +29,7 @@ $ yarn generate
 - Nuxt
 - Vue/Vuex
 - Axios
+- Netlify
 - Tailwind CSS
 - ESLint
 - Jest
