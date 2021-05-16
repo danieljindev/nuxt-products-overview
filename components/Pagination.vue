@@ -19,14 +19,14 @@
           @click="movePage(prev_page_url)"
         />
       </a>
-      <a href="#" aria-current="page" class="page-button">
+      <a href="javascript:;" aria-current="page" class="page-button">
         <ChevronRightIcon
           class="h-5 w-5"
           aria-hidden="true"
           @click="movePage(next_page_url)"
         />
       </a>
-      <a href="#" class="rounded-r-md page-button">
+      <a href="javascript:;" class="rounded-r-md page-button">
         <span class="sr-only">Next</span>
         <ChevronDoubleRightIcon
           class="h-5 w-5"

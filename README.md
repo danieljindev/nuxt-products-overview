@@ -20,6 +20,10 @@ $ yarn lint
 $ yarn generate
 ```
 
+## Deployments
+
+- [Live Website](https://flamboyant-meninsky-52d028.netlify.app)
+
 ## Tech stacks
 
 - Nuxt
